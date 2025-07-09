@@ -60,7 +60,11 @@ Default username: admin  Default password: admin123
 
 ### Video Tutorial
 
-[![XUGOU Video Tutorial](https://img.youtube.com/vi/jisEpcqDego/0.jpg)](https://youtu.be/J7_xtsJIYiM)
+[![XUGOU Video Tutorial](https://img.youtube.com/vi/jisEpcqDego/0.jpg)](https://youtu.be/w2by-7jDCM0)
+
+### Workers Optimization Domain Video Tutorial
+
+[![workers 优选教程](https://img.youtube.com/vi/pF05vhNe_5A/0.jpg)](https://youtu.be/pF05vhNe_5A?si=FoLk94K2V5Wpg3jr)
 
 ## FAQ
 
